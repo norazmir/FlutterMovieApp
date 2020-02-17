@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter application.
+Building a flutter application by generating list of movies available by doing api call.  
 
 ## Getting Started
 
